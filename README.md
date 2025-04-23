@@ -67,7 +67,5 @@ Based on your input data, the app provides relevant suggestions such as:
 ```bash
 pip install streamlit matplotlib
 
-2. **Install Dependencies**
-```bash
-streamlit run app.py
+
 
