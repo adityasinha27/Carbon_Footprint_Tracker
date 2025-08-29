@@ -1,6 +1,3 @@
-# Carbon_Footprint_Tracker
-https://aman245002-carbon-footprint-tracker-app-adly2t.streamlit.app/
-
 # 🌍 AI-Powered Carbon Footprint Tracker
 
 A Streamlit-based web application that helps users estimate and visualize their annual carbon footprint based on various lifestyle choices such as transportation, electricity usage, diet, flights, and more. The app also provides AI-powered tips for reducing emissions and rewards users with **Green Points** for sustainable habits.
